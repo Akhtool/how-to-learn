@@ -2,5 +2,6 @@
   width: 160px;
   height: 160px;
   border-radius: 50%;
-  margin: 60px 40px 43px 40px;
+  display: block;
+  margin:0 auto 43px auto;
 }

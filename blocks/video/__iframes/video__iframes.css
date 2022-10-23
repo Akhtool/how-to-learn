@@ -1,6 +1,4 @@
 .video__iframes {
-  position: relative;
-  top: 50px;
   display: flex;
   list-style: none;
   padding: 0;
